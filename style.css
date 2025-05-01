@@ -14,4 +14,9 @@ body {
   main {
     padding: 2em;
   }
+  #mars {
+    background-color: #f5e1a4;
+    padding: 20px;
+    border-radius: 10px;
+  }
   
