@@ -15,5 +15,5 @@ Below are images to show all the steps for this project.
 ![gitcommand](./img/gitcomand1.png)
 ![gitcommand](./img/gitcomand2.png)
 ![gitcommand](./img/gitcomand3.png)
-![github](./img/gitcomand3.png)
+![github](./img/github.png)
 ![github_branches](./img/github_branches.png)
